@@ -29,8 +29,8 @@ Salt_rounds = 5
 
 ## 🔗 Links
 
-- Live - https://lms-threatgaurdians.netlify.app/home
-- Server - https://lmsbackend-020w.onrender.com/
+- Live - https://lms-08.netlify.app/
+- Server - https://lms-xi9m.onrender.com
 
 ## 🔗 Credentials
 

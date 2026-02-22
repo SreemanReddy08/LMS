@@ -1,2 +1,2 @@
-const BackendURL = "http://localhost:4500"
+const BackendURL = "https://lms-xi9m.onrender.com"
 export default BackendURL;
