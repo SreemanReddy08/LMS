@@ -1,19 +1,11 @@
 # Learning Management system
 
-LMS is a full-featured, multipurpose, premium Learning Management System built with react js, HTML5, and CSS. It has a huge collection of reusable UI components and is integrated with the latest CSS libraries. It can be used for all types of Web applications like custom admin panel, app backend, CMS or CRM.
+LMS is a full-featured, multipurpose, premium Learning Management System built with react js, HTML5, and CSS. It has a huge collection of reusable UI components and is integrated with the latest CSS libraries. It can be used for all types of Web applications like custom admin panel, app backend.
 
 
 
 
-## Note
-- Add .env file in the Server directory
-- File should contain
-```bash
-dbURL = your mongoDB url
-port = 4500
-secret_key = "secret key"
-Salt_rounds = 5
-```
+
 
 ## Tech Stack / Libraries
 - **React**
